@@ -1,4 +1,4 @@
-Test Performance of CNN and ViT Models on Flood Segmentation:
+Training Performance of CNN and ViT Models on Flood Segmentation:
 
 Model/Metrics           |   Accuracy     |      Loss	   |      Precision  |	  Recall   |	  F1 Score  |    MeanIoU   |   Dice coefficient	 |
 ------------------------|----------------|---------------|-----------------|-------------|--------------|--------------|---------------------|
