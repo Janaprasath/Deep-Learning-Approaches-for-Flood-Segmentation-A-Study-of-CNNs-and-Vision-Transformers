@@ -1,11 +1,12 @@
-Training Performance of CNN and ViT Models on Flood Segmentation:
+Test Performance of CNN and ViT Models on Flood Segmentation:
 
-test	          Accuracy	Loss	Precision	Recall	F1 Score	MeanIoU	Dice coefficient	
-UNet	76.04	0.4057	49.99	78.41	85.43	86.71	85.88	
-DeepLabV3+	68.72	0.7842	47.5	86.15	76.7	86.15	83.98	
-ResUNet	79.28	0.3643	36.06	88.23	88.03	82.2	89.04	
-ViT for Segmentation	63.35	0.4214	25	68.47	76.09	80.26	78.83	
-UNetR	69.62	0.3018	25	82.14	86.36	84.81	87.27	
-SwinUNet	78.23	0.2391	25	83.87	88.65	88.94	89.11	
-![image](https://github.com/user-attachments/assets/407644b3-cbc9-4a4c-a799-250087aba6d6)
+Model/Metrics           |   Accuracy     |      Loss	   |      Precision  |	  Recall   |	  F1 Score  |    MeanIoU |   Dice coefficient	|
+------------------------|----------------|---------------|-----------------|-------------|--------------|------------|--------------------|
+UNet	                  |   76.04	       |     0.4057	   |     49.99	     |    78.41	   |   85.43	    |    86.71   |     85.88	        |
+DeepLabV3+	            |   68.72	       |     0.7842	   |     47.5	       |    86.15	   |   76.7	      |    86.15   |     83.98	        |
+ResUNet	                |   79.28	       |     0.3643	   |     6.06	       |    88.23	   |   88.03      |	   82.2    |     89.04          |
+ViT for Segmentation	  |   63.35	       |     0.4214    |	    25	       |    68.47	   |   76.09	    |    80.26   |     78.83          |	
+UNetR	                  |   69.62	       |     0.3018	   |      25	       |    82.14	   |   86.36	    |    84.81	 |     87.27	        |
+SwinUNet	              |   78.23	       |     0.2391	   |       25	       |    83.87	   |   88.65	    |    88.94   |     89.11          |	
+
 
