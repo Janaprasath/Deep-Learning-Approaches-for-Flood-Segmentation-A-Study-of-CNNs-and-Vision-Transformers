@@ -1,5 +1,19 @@
 Test Performance of CNN and ViT Models on Flood Segmentation:
 
+Model/Metrics           |   Accuracy     |      Loss	   |      Precision  |	  Recall   |	  F1 Score  |    MeanIoU   |   Dice coefficient	 |
+------------------------|----------------|---------------|-----------------|-------------|--------------|--------------|---------------------|
+UNet	                  |      96.11	   |    0.0695     |      	96.72	   |   95.38     |	   96.14	  |     49.99	   |       94.14         |
+DeepLabV3+	            |      97.78     |    0.0316	   |       98.86     |	 97.34	   |    97.91	    |     47.52	   |      97.27          |
+ResUNet	                |      97.63     |	  0.3533     |	     98.5      |	 97.25     |	  97.85     |	    35.33    |	    97.01          |
+ViT for Segmentation	  |      83.33     |	  0.3266     |	    80.82      |	  80.5     | 	  81.85     |	    25       |	    70.64          |
+UNetR	                  |      83.83     |	  0.3282     |  	  86.75	     |    77.51	   |    82.01     |	    25	     |      72.79          |
+SwinUNet	              |      84.01     |  	0.3266	   |      80.82	     |    80.85	   |    81.85	    |      25	     |      73.2           |
+
+
+
+
+Test Performance of CNN and ViT Models on Flood Segmentation:
+
 Model/Metrics           |   Accuracy     |      Loss	   |      Precision  |	  Recall   |	  F1 Score  |    MeanIoU |   Dice coefficient	|
 ------------------------|----------------|---------------|-----------------|-------------|--------------|------------|--------------------|
 UNet	                  |   76.04	       |     0.4057	   |     49.99	     |    78.41	   |   85.43	    |    86.71   |     85.88	        |
