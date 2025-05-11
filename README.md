@@ -21,5 +21,5 @@ Performance Metrics:
 3. Recall
 4. F1 Score
 5. Intersection over Union (IoU)
-6.Dice Coefficient
+6. Dice Coefficient
 
