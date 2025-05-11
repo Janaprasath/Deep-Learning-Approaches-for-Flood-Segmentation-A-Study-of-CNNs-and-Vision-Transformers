@@ -1,4 +1,4 @@
-# Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers
+# Deep Learning Approaches for Flood Segmentation A Study of CNNs and Vision Transformers
 
 Project Overview:
 - This project investigates and compares the performance of Convolutional Neural Networks (CNNs) and Vision Transformer (ViT)-based architectures for semantic segmentation, with a specific focus on flood detection using satellite or aerial imagery. - - The study evaluates multiple state-of-the-art models-including U-Net, ResUNet, DeepLabV3+, UNetR, SwinUNet, and ViT-across a range of metrics such as accuracy, F1-score, precision, recall, and Intersection over Union (IoU).
