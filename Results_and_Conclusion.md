@@ -36,4 +36,4 @@ SwinUNet	              |   78.23	       |     0.2391	   |       25	       |    8
 
 
 
-![image](https://github.com/user-attachments/assets/66920cb5-e896-4a50-a9f0-bad04786bebc)
+
