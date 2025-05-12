@@ -49,6 +49,6 @@ SwinUNet	              |   78.23	       |     0.2391	   |       25	       |    8
 
 - **DeepLabV3**+, although strong in training, showed signs of overfitting, with a notable drop in validation and test performance.
 
-- Overall, **CNN**-based architectures (especially ResUNet and SwinUNet) demonstrated more stable and robust performance across all datasets. Vision Transformer models need more data or regularization techniques to improve their generalization on flood segmentation tasks. 
+- Overall, **CNN**-based architectures (especially ResUNet and SwinUNet) demonstrated more stable and robust performance across all datasets. Vision Transformer models need more data or regularization techniques to improve their generalization on flood segmentation tasks.
 
 
