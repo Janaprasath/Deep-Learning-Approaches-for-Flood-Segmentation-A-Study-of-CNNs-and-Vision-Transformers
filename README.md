@@ -25,7 +25,7 @@
 6. Dice Coefficient
 
 **Project Structure & Model Pipeline**:
-1. Import required libraries
+1. [Import required libraries](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/%20Required%20Libraries.py)
 2. [Data Loader](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Data_Loader.py)
 3. [Data Generator](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Data_generator.py)
 4. [Data Splits](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Data_Split.py)
