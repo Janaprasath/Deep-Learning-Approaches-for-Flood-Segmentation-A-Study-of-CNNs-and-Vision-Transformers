@@ -1,4 +1,9 @@
-Trainin Performance of CNN and ViT Models on Flood Segmentation:
+CONCLUSION:
+
+- This project compared three CNN-based models (U-Net, DeepLabV3+, ResUNet) and three Vision Transformer-based models (ViT for Segmentation, UNetR, SwinUNet) for flood segmentation tasks.
+- The evaluation was based on performance metrics such as Accuracy, Dice Coefficient, F1 Score, Precision, Recall, MeanIoU, and Loss across training, validation, and test sets.
+
+Training Performance of CNN and ViT Models on Flood Segmentation:
 
 Model/Metrics           |   Accuracy     |      Loss	   |      Precision  |	  Recall   |	  F1 Score  |    MeanIoU   |   Dice coefficient	 |
 ------------------------|----------------|---------------|-----------------|-------------|--------------|--------------|---------------------|
@@ -34,6 +39,16 @@ ViT for Segmentation	  |   63.35	       |     0.4214    |	    25	       |    68.
 UNetR	                  |   69.62	       |     0.3018	   |      25	       |    82.14	   |   86.36	    |    84.81	 |     87.27	        |
 SwinUNet	              |   78.23	       |     0.2391	   |       25	       |    83.87	   |   88.65	    |    88.94   |     89.11          |	
 
+- **CNN**-based models generally outperformed **ViT**-based models in terms of segmentation accuracy and generalization.
 
+- **SwinUNet** achieved the best test **Dice Coefficient (89.11%)** and **MeanIoU (88.94%)**, indicating strong segmentation quality on unseen data.
+
+- **ResUNet** showed strong generalization with high test **F1 Score (88.03%)** and **Dice Coefficient (89.04%)**, while also maintaining top performance during training and validation.
+
+- **ViT for Segmentation** and **UNetR**, while competitive during training, struggled with generalization, evident in their lower test precision and MeanIoU.
+
+- **DeepLabV3**+, although strong in training, showed signs of overfitting, with a notable drop in validation and test performance.
+
+- Overall, **CNN**-based architectures (especially ResUNet and SwinUNet) demonstrated more stable and robust performance across all datasets. Vision Transformer models need more data or regularization techniques to improve their generalization on flood segmentation tasks. 
 
 
