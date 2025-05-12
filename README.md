@@ -24,5 +24,4 @@ Performance Metrics:
 5. Intersection over Union (IoU)
 6. Dice Coefficient
 
-7. <pre> ```mermaid graph TD A[Import Modules] --> B[Load and Preprocess Data] B --> C[Initialize Model] C --> D[Train Model] D --> E[Evaluate on Test Set] E --> F[Visualize Results] ``` </pre>
 
