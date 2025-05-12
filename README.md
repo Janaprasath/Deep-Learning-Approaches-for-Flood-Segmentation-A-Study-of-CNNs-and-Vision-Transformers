@@ -30,7 +30,7 @@
 3. [Data Generator](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Data_generator.py)
 4. [Data Splits](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Data_Split.py)
 5. [Sample Visualization](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Sample_Visualization.py)
-6. [Model Architecture](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/tree/main/src/Models)(choose the architecture from Models folder)
+6. [Model Architecture](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/tree/main/src/Models) (Choose the architecture from Models folder)
 7. [Performance Metrics](https://github.com/Janaprasath/Deep-Learning-Approaches-for-Flood-Segmentation-A-Study-of-CNNs-and-Vision-Transformers/blob/main/src/Utils/Performance_Metrics.py)
 8. [Performance Metrics Visualization](src/Utils/Performance_Metrics_Visualization.py)
 9. [Test Dataset Prediction and Performance Metrics](src/Utils/Test_Dataset_Prediction_and_Performance_Metrics.py)
